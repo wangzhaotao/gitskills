@@ -8,3 +8,5 @@ main.txt.
 
 dev branch test.
 
+master branch conflict test. feature1 branch
+
