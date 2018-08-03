@@ -15,3 +15,9 @@ feature1 branch edite confilict test.
 
 ///////
 
+dev edite.-->stash
+
+//
+after stash dev branch.
+
+
